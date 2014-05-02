@@ -1,0 +1,7 @@
+<ul>
+<!-- メインカテゴリーの書き出し -->
+<mt:EntryPrimaryCategory><li><$mt:CategoryLabel$></li></mt:EntryPrimaryCategory>
+
+<!-- サブカテゴリーの書き出し -->
+<mt:EntryAdditionalCategories><li><$mt:CategoryLabel$></li></mt:EntryAdditionalCategories>
+</ul>
